@@ -1,2 +1,2 @@
 # search_opt
-search optimization app in flutter
+search optimization app for cars
